@@ -1,3 +1,5 @@
+![Banner da Imersão Dev Google Gemini](assets/imersao-dev-google-gemini-inscreva-se-banner-final-artigo-mobile.webp)
+
 # Projeto Front-End para Iniciantes
 
 Este projeto é uma aplicação web simples criada para ajudar iniciantes em desenvolvimento front-end a entender e aplicar conceitos básicos de lógica de programação, HTML, CSS e JavaScript. O objetivo é fornecer uma visão clara e prática desses fundamentos para quem está começando no mercado de trabalho como desenvolvedor front-end.
